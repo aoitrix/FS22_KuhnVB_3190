@@ -19,7 +19,7 @@ Changelog:
 But at a price: The workspeed is lowered.
 ]]></en>
     </description>
-    <iconFilename>icon.png</iconFilename>
+    <iconFilename>modIcon.png</iconFilename>
     <storeItems>
         <storeItem xmlFilename="vb3190.xml"/>
     </storeItems>
